@@ -12,3 +12,4 @@ app/runs
 test_*.*
 archive/
 docs_my/
+app/data_model/
