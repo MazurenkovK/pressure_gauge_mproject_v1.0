@@ -1,7 +1,7 @@
 *.log
 .DS_Store
 .vscode/
-my_file/
+/my_file
 __pycache__/
 .pytest_cache/
 venv
@@ -10,7 +10,7 @@ app/detect
 app/seg
 app/runs
 test_*.*
-archive/
-docs_my/
-app/data_model/
+/archive
+/docs_my
+app/data_model
 app/models
